@@ -1,5 +1,6 @@
 VERSION = "0.0.0"
-
+import os 
+print(os.listdir())
 
 from lib.bot import BOT
 

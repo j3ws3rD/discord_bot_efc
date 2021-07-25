@@ -10,7 +10,7 @@ import discord
 
 import os
 print("path")
-print(os.path.relpath())
+print(os.listdir())
 
 class Bot(BotBase):
     def __init__(self):
