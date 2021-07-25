@@ -682,3 +682,18 @@ See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.htm
 2021-07-25 16:27:48,815 --- [urllib3.connectionpool] => DEBUG:10 (https://pypi.org:443 "GET /pypi/praw/json HTTP/1.1" 200 32182) | thn reddit_commands_thread | thd 139668368647936 | procn MainProcess | procd 52870
 2021-07-25 16:28:53,401 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140703947466560 | procn MainProcess | procd 54012
 2021-07-25 16:29:10,492 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139922534508352 | procn MainProcess | procd 54097
+2021-07-25 17:33:26,667 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140101019121472 | procn MainProcess | procd 64119
+2021-07-25 17:33:26,884 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): pypi.org:443) | thn reddit_commands_thread | thd 140100759451392 | procn MainProcess | procd 64119
+2021-07-25 17:33:27,226 --- [urllib3.connectionpool] => DEBUG:10 (https://pypi.org:443 "GET /pypi/praw/json HTTP/1.1" 200 32182) | thn reddit_commands_thread | thd 140100759451392 | procn MainProcess | procd 64119
+2021-07-25 17:33:54,288 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140101019121472 | procn MainProcess | procd 64119
+2021-07-25 17:33:54,289 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/doge/hot) | thn MainThread | thd 140101019121472 | procn MainProcess | procd 64119
+2021-07-25 17:33:54,289 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140101019121472 | procn MainProcess | procd 64119
+2021-07-25 17:33:54,289 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140101019121472 | procn MainProcess | procd 64119
+2021-07-25 17:33:54,293 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): www.reddit.com:443) | thn MainThread | thd 140101019121472 | procn MainProcess | procd 64119
+2021-07-25 17:33:54,785 --- [urllib3.connectionpool] => DEBUG:10 (https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 109) | thn MainThread | thd 140101019121472 | procn MainProcess | procd 64119
+2021-07-25 17:33:54,793 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): oauth.reddit.com:443) | thn MainThread | thd 140101019121472 | procn MainProcess | procd 64119
+2021-07-25 17:33:56,816 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/doge/hot?limit=100&raw_json=1 HTTP/1.1" 200 91300) | thn MainThread | thd 140101019121472 | procn MainProcess | procd 64119
+2021-07-25 17:33:57,341 --- [prawcore] => DEBUG:10 (Response: 200 (91300 bytes)) | thn MainThread | thd 140101019121472 | procn MainProcess | procd 64119

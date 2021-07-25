@@ -984,3 +984,10 @@
 2021-07-25 16:29:10,534 --- [general] => INFO:20 (BASIC commands help LOADED.) | thn basic_commands_thread | thd 139922471790336 | procn MainProcess | procd 54097
 2021-07-25 16:29:10,535 --- [general] => INFO:20 (BASIC commands kick LOADED.) | thn basic_commands_thread | thd 139922471790336 | procn MainProcess | procd 54097
 2021-07-25 16:29:10,537 --- [general] => INFO:20 (BASIC commands clear LOADED.) | thn basic_commands_thread | thd 139922471790336 | procn MainProcess | procd 54097
+2021-07-25 17:33:26,691 --- [general] => INFO:20 (BASIC commands ping LOADED.) | thn basic_commands_thread | thd 140100975871744 | procn MainProcess | procd 64119
+2021-07-25 17:33:26,697 --- [efc] => INFO:20 (BASIC EVENTS join_leave_ LOADED.) | thn basic_cog_thread | thd 140100992657152 | procn MainProcess | procd 64119
+2021-07-25 17:33:26,700 --- [general] => INFO:20 (BASIC commands unban LOADED.) | thn basic_commands_thread | thd 140100975871744 | procn MainProcess | procd 64119
+2021-07-25 17:33:26,704 --- [general] => INFO:20 (BASIC commands ban LOADED.) | thn basic_commands_thread | thd 140100975871744 | procn MainProcess | procd 64119
+2021-07-25 17:33:26,710 --- [general] => INFO:20 (BASIC commands help LOADED.) | thn basic_commands_thread | thd 140100975871744 | procn MainProcess | procd 64119
+2021-07-25 17:33:26,712 --- [general] => INFO:20 (BASIC commands kick LOADED.) | thn basic_commands_thread | thd 140100975871744 | procn MainProcess | procd 64119
+2021-07-25 17:33:26,714 --- [general] => INFO:20 (BASIC commands clear LOADED.) | thn basic_commands_thread | thd 140100975871744 | procn MainProcess | procd 64119
