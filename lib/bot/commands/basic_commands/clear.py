@@ -1,7 +1,6 @@
 from discord.ext.commands import command
 from discord.ext import commands
 from discord.ext.commands import has_permissions, bot_has_permissions
-from tc import tc
 import discord
 from discord import Embed
 from typing import Optional

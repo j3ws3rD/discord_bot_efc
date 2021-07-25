@@ -23,8 +23,8 @@ class Images(Cog):
         if REDDIT_APP_ID and REDDIT_APP_SECRET:
             self.reddit = praw.Reddit(client_id=REDDIT_APP_ID,client_secret=REDDIT_APP_SECRET,user_agent="efc_redit:%s:1.0" % REDDIT_APP_ID)
         
-    @command()
-    async def random(self, ctx, subreddit: str = ""):
+    @command(name="random",help="fetch random links from reddit according to your subject.")
+    async def random(self, ctx, subreddit: str = "meme"):
         async with ctx.channel.typing():
             if self.reddit:
                 submissions = self.reddit.subreddit(subreddit).hot()
