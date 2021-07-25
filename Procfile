@@ -1,1 +1,1 @@
-worker: python3 /app/launcher.py
+fds;fjs;ld jsadlam ksdfjka w'p9rui32[9
