@@ -19,7 +19,7 @@ class Bot(BotBase):
             basic_cogs = [path.split("/")[5][:-3] for path in glob("/app/lib/bot/events/basic_events/*")]
             for cog in basic_cogs:
                 if not cog.startswith("__"):
-                    self.load_extension(f".lib.bot.events.basic_events.{cog}")
+                    self.load_extension(f"..lib.bot.events.basic_events.{cog}")
                     cog_log = takelogger("efc","basic_cog_thread",threading.get_ident())
                     cog_log.info(f"BASIC EVENTS {cog} LOADED.")
                     print("BASIC EVENTS %s loaded." % (cog))
@@ -28,14 +28,14 @@ class Bot(BotBase):
             debug_events = [path.split("/")[5][:-3] for path in glob("/app/lib/bot/events/debug_events/*")]
             for debug_event in debug_events:
                 if not debug_event.startswith("__"):
-                    self.load_extension(f".lib.bot.events.debug_events.{debug_event}")
+                    self.load_extension(f"..lib.bot.events.debug_events.{debug_event}")
                     print("DEBUG EVENTS LOADED.")
         def load_basic_commands(self):
             # basic cogs
             basic_commands = [path.split("/")[5][:-3] for path in glob("/app/lib/bot/commands/basic_commands/*")]
             for commands in basic_commands:
                 if not commands.startswith("__"):
-                    self.load_extension(f".lib.bot.commands.basic_commands.{commands}")
+                    self.load_extension(f"..lib.bot.commands.basic_commands.{commands}")
                     general_log = takelogger("general","basic_commands_thread",threading.get_ident())
                     general_log.info(f"BASIC commands {commands} LOADED.")
                     print("BASIC COMMANDS %s loaded." % (commands))
@@ -44,21 +44,21 @@ class Bot(BotBase):
             reddit_commands = [path.split("/")[5][:-3] for path in glob("/app/lib/bot/commands/reddit_commands/*")]
             for reddit_command in reddit_commands:
                 if not reddit_command.startswith("__"):
-                    self.load_extension(f".lib.bot.commands.reddit_commands.{reddit_command}")
+                    self.load_extension(f"..lib.bot.commands.reddit_commands.{reddit_command}")
                     print("REDDIT COMMAND %s LOADED." %reddit_command)
     
         def load_music_commands(self):
             music_commands = [path.split("/")[5][:-3] for path in glob("/app/lib/bot/commands/music_commands/*")]
             for music_command in music_commands:
                 if not music_command.startswith("__"):
-                    self.load_extension(f".lib.bot.commands.music_commands.{music_command}")
+                    self.load_extension(f"..lib.bot.commands.music_commands.{music_command}")
                     print("MUSIC COMMAND %s LOADED." %music_command)
 
         def load_basic_tasks(self):
             basic_tasks = [path.split("/")[5][:-3] for path in glob("/app/lib/bot/tasks/basic_tasks/*")]
             for task in basic_tasks:
                 if not task.startswith("__"):
-                    self.load_extension(f".lib.bot.tasks.basic_tasks.{task}")
+                    self.load_extension(f"..lib.bot.tasks.basic_tasks.{task}")
                     task_log = takelogger("task","basic_task_thread",threading.get_ident())
                     task_log.info("BASIC TASK {task} LOADED.")
                     
