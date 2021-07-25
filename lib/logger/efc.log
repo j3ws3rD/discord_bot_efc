@@ -1,0 +1,684 @@
+2021-07-22 14:17:01,672 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140604574353216 | procn MainProcess | procd 36832
+2021-07-22 14:18:18,251 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139926676723520 | procn MainProcess | procd 36990
+2021-07-22 14:18:36,343 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140303998744384 | procn MainProcess | procd 37022
+2021-07-22 14:18:45,777 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140615407249216 | procn MainProcess | procd 37061
+2021-07-22 14:18:51,059 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140220688877376 | procn MainProcess | procd 37079
+2021-07-22 15:29:19,615 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139679767938880 | procn MainProcess | procd 45576
+2021-07-22 15:29:41,228 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140509689730880 | procn MainProcess | procd 45654
+2021-07-22 15:30:07,060 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139877571999552 | procn MainProcess | procd 45733
+2021-07-22 15:31:04,043 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140525847975744 | procn MainProcess | procd 45843
+2021-07-22 15:31:12,912 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140003252324160 | procn MainProcess | procd 45887
+2021-07-22 15:31:14,789 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140505556875072 | procn MainProcess | procd 45888
+2021-07-22 15:31:36,426 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140168725739328 | procn MainProcess | procd 45931
+2021-07-22 15:31:41,654 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140152009623360 | procn MainProcess | procd 45943
+2021-07-22 15:32:00,528 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139753733773120 | procn MainProcess | procd 45999
+2021-07-22 15:32:58,371 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140561895036736 | procn MainProcess | procd 46070
+2021-07-22 15:33:17,037 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139675829196608 | procn MainProcess | procd 46173
+2021-07-22 15:33:21,512 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140611338889024 | procn MainProcess | procd 46178
+2021-07-22 15:33:27,547 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140114507392832 | procn MainProcess | procd 46206
+2021-07-22 15:35:46,821 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139873951496000 | procn MainProcess | procd 46544
+2021-07-22 15:36:07,960 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140098078156608 | procn MainProcess | procd 46643
+2021-07-22 15:38:41,197 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140175332042560 | procn MainProcess | procd 46861
+2021-07-22 16:43:21,237 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140554627536704 | procn MainProcess | procd 57604
+2021-07-22 16:44:38,345 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140197843867456 | procn MainProcess | procd 57700
+2021-07-22 16:47:04,585 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140046533392192 | procn MainProcess | procd 57944
+2021-07-22 16:49:40,900 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139869901498176 | procn MainProcess | procd 58474
+2021-07-22 16:49:50,787 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140643871356736 | procn MainProcess | procd 58491
+2021-07-22 16:58:12,854 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140527601731392 | procn MainProcess | procd 60281
+2021-07-22 16:58:31,732 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139672384739136 | procn MainProcess | procd 60346
+2021-07-22 16:59:06,546 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139841978431296 | procn MainProcess | procd 60379
+2021-07-22 17:04:38,599 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139820699875136 | procn MainProcess | procd 60882
+2021-07-22 17:07:28,862 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139680993662784 | procn MainProcess | procd 61209
+2021-07-22 17:08:33,118 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139857583486784 | procn MainProcess | procd 61305
+2021-07-22 17:10:14,709 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140356611000128 | procn MainProcess | procd 61641
+2021-07-22 17:11:34,163 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140328414598976 | procn MainProcess | procd 61789
+2021-07-22 17:12:13,619 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140460666361664 | procn MainProcess | procd 61855
+2021-07-22 17:23:06,634 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139883956934464 | procn MainProcess | procd 63844
+2021-07-22 17:24:37,488 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140474212058944 | procn MainProcess | procd 64033
+2021-07-22 17:25:34,420 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139937983174464 | procn MainProcess | procd 64066
+2021-07-22 17:29:05,379 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140003887777600 | procn MainProcess | procd 64147
+2021-07-22 17:29:33,369 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140004873041728 | procn MainProcess | procd 64159
+2021-07-22 23:41:41,121 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140530723608384 | procn MainProcess | procd 10285
+2021-07-22 23:42:24,025 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140598803031872 | procn MainProcess | procd 10488
+2021-07-22 23:54:57,688 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140299995760448 | procn MainProcess | procd 12673
+2021-07-22 23:56:19,759 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139808054642496 | procn MainProcess | procd 12760
+2021-07-22 23:56:23,912 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140544468223808 | procn MainProcess | procd 12767
+2021-07-22 23:58:00,304 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139818192164672 | procn MainProcess | procd 13391
+2021-07-22 23:58:50,618 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140540748408640 | procn MainProcess | procd 13751
+2021-07-22 23:59:33,687 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139989276112704 | procn MainProcess | procd 13984
+2021-07-23 00:00:22,410 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140570455615296 | procn MainProcess | procd 14160
+2021-07-23 00:03:01,014 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139711679063872 | procn MainProcess | procd 14598
+2021-07-23 00:03:49,172 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140365393975104 | procn MainProcess | procd 14647
+2021-07-23 00:14:17,808 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140432715683648 | procn MainProcess | procd 16383
+2021-07-23 00:15:25,944 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140269978658624 | procn MainProcess | procd 16476
+2021-07-23 00:19:36,210 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140219682076480 | procn MainProcess | procd 16808
+2021-07-23 00:22:53,063 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139701287475008 | procn MainProcess | procd 17207
+2021-07-23 00:24:09,158 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140490053142336 | procn MainProcess | procd 17305
+2021-07-23 00:24:13,248 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140167578818368 | procn MainProcess | procd 17315
+2021-07-23 00:24:24,041 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140516468827968 | procn MainProcess | procd 17344
+2021-07-23 00:25:31,625 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139675876603712 | procn MainProcess | procd 17611
+2021-07-23 00:25:56,802 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139941093824320 | procn MainProcess | procd 17678
+2021-07-23 00:26:01,780 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140670798985024 | procn MainProcess | procd 17704
+2021-07-23 00:26:06,292 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140266223978304 | procn MainProcess | procd 17720
+2021-07-23 00:26:18,984 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140247869429568 | procn MainProcess | procd 17762
+2021-07-23 00:29:26,418 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139698566801216 | procn MainProcess | procd 18244
+2021-07-23 00:29:26,518 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139698441811712 | procn MainProcess | procd 18244
+2021-07-23 00:29:39,525 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139931873007424 | procn MainProcess | procd 18268
+2021-07-23 00:29:39,619 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139931820717824 | procn MainProcess | procd 18268
+2021-07-23 00:29:39,627 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 139931820717824 | procn MainProcess | procd 18268
+2021-07-23 00:29:39,627 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 139931820717824 | procn MainProcess | procd 18268
+2021-07-23 00:31:05,395 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140670826592064 | procn MainProcess | procd 18466
+2021-07-23 00:31:05,507 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140670706640640 | procn MainProcess | procd 18466
+2021-07-23 00:31:05,508 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140670706640640 | procn MainProcess | procd 18466
+2021-07-23 00:31:05,508 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140670706640640 | procn MainProcess | procd 18466
+2021-07-23 00:32:37,671 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139729741829952 | procn MainProcess | procd 18584
+2021-07-23 00:32:38,104 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139729689540352 | procn MainProcess | procd 18584
+2021-07-23 00:32:38,106 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 139729689540352 | procn MainProcess | procd 18584
+2021-07-23 00:32:38,106 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 139729689540352 | procn MainProcess | procd 18584
+2021-07-23 01:11:45,770 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139881083643712 | procn MainProcess | procd 24520
+2021-07-23 01:11:46,284 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139881031354112 | procn MainProcess | procd 24520
+2021-07-23 01:11:46,287 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 139881031354112 | procn MainProcess | procd 24520
+2021-07-23 01:11:46,287 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 139881031354112 | procn MainProcess | procd 24520
+2021-07-23 01:23:41,920 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140206355527488 | procn MainProcess | procd 27451
+2021-07-23 01:23:42,301 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140206303237888 | procn MainProcess | procd 27451
+2021-07-23 01:23:42,302 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140206303237888 | procn MainProcess | procd 27451
+2021-07-23 01:23:42,303 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140206303237888 | procn MainProcess | procd 27451
+2021-07-23 01:24:19,091 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139815727998784 | procn MainProcess | procd 27604
+2021-07-23 01:24:19,281 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139815605495552 | procn MainProcess | procd 27604
+2021-07-23 01:24:19,282 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 139815605495552 | procn MainProcess | procd 27604
+2021-07-23 01:24:19,283 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 139815605495552 | procn MainProcess | procd 27604
+2021-07-23 01:24:46,300 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140088323643200 | procn MainProcess | procd 27657
+2021-07-23 01:24:46,517 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140088201701120 | procn MainProcess | procd 27657
+2021-07-23 01:24:46,518 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140088201701120 | procn MainProcess | procd 27657
+2021-07-23 01:24:46,519 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140088201701120 | procn MainProcess | procd 27657
+2021-07-23 01:25:41,087 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139873971738432 | procn MainProcess | procd 27784
+2021-07-23 01:25:41,273 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139873919448832 | procn MainProcess | procd 27784
+2021-07-23 01:25:41,274 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 139873919448832 | procn MainProcess | procd 27784
+2021-07-23 01:25:41,274 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 139873919448832 | procn MainProcess | procd 27784
+2021-07-23 01:26:40,083 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140364698801984 | procn MainProcess | procd 28091
+2021-07-23 01:26:40,265 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140364663297792 | procn MainProcess | procd 28091
+2021-07-23 01:26:40,267 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140364663297792 | procn MainProcess | procd 28091
+2021-07-23 01:26:40,267 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140364663297792 | procn MainProcess | procd 28091
+2021-07-23 01:27:31,184 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140203344877376 | procn MainProcess | procd 28277
+2021-07-23 01:27:31,388 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140203292587776 | procn MainProcess | procd 28277
+2021-07-23 01:27:31,389 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140203292587776 | procn MainProcess | procd 28277
+2021-07-23 01:27:31,389 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140203292587776 | procn MainProcess | procd 28277
+2021-07-23 01:27:46,541 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139943147992896 | procn MainProcess | procd 28285
+2021-07-23 01:27:46,787 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139943095703296 | procn MainProcess | procd 28285
+2021-07-23 01:27:46,789 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 139943095703296 | procn MainProcess | procd 28285
+2021-07-23 01:27:46,789 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 139943095703296 | procn MainProcess | procd 28285
+2021-07-23 01:29:25,247 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140493926160192 | procn MainProcess | procd 28571
+2021-07-23 01:29:25,418 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140493873870592 | procn MainProcess | procd 28571
+2021-07-23 01:29:25,419 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140493873870592 | procn MainProcess | procd 28571
+2021-07-23 01:29:25,419 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140493873870592 | procn MainProcess | procd 28571
+2021-07-23 01:29:35,885 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140441032759104 | procn MainProcess | procd 28608
+2021-07-23 01:29:36,202 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140440997254912 | procn MainProcess | procd 28608
+2021-07-23 01:29:36,204 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140440997254912 | procn MainProcess | procd 28608
+2021-07-23 01:29:36,204 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140440997254912 | procn MainProcess | procd 28608
+2021-07-23 01:30:11,222 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140388132050752 | procn MainProcess | procd 28757
+2021-07-23 01:30:11,399 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140388079761152 | procn MainProcess | procd 28757
+2021-07-23 01:30:11,400 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140388079761152 | procn MainProcess | procd 28757
+2021-07-23 01:30:11,400 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140388079761152 | procn MainProcess | procd 28757
+2021-07-23 01:30:37,460 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140214334695232 | procn MainProcess | procd 28828
+2021-07-23 01:30:37,655 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140214282405632 | procn MainProcess | procd 28828
+2021-07-23 01:30:37,656 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140214282405632 | procn MainProcess | procd 28828
+2021-07-23 01:30:37,656 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140214282405632 | procn MainProcess | procd 28828
+2021-07-23 01:31:12,374 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139913202636608 | procn MainProcess | procd 28882
+2021-07-23 01:31:12,561 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139913150347008 | procn MainProcess | procd 28882
+2021-07-23 01:31:12,562 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 139913150347008 | procn MainProcess | procd 28882
+2021-07-23 01:31:12,562 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 139913150347008 | procn MainProcess | procd 28882
+2021-07-23 01:31:36,076 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139694912841536 | procn MainProcess | procd 28924
+2021-07-23 01:31:36,301 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139694860551936 | procn MainProcess | procd 28924
+2021-07-23 01:31:36,302 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 139694860551936 | procn MainProcess | procd 28924
+2021-07-23 01:31:36,302 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 139694860551936 | procn MainProcess | procd 28924
+2021-07-23 01:47:58,832 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139640439273280 | procn MainProcess | procd 32265
+2021-07-23 01:47:59,051 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139640317142784 | procn MainProcess | procd 32265
+2021-07-23 01:47:59,053 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 139640317142784 | procn MainProcess | procd 32265
+2021-07-23 01:47:59,053 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 139640317142784 | procn MainProcess | procd 32265
+2021-07-23 01:48:40,064 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140298472081216 | procn MainProcess | procd 32299
+2021-07-23 01:48:40,238 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140298419791616 | procn MainProcess | procd 32299
+2021-07-23 01:48:40,240 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140298419791616 | procn MainProcess | procd 32299
+2021-07-23 01:48:40,240 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140298419791616 | procn MainProcess | procd 32299
+2021-07-23 01:49:18,585 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140638863759168 | procn MainProcess | procd 32414
+2021-07-23 01:49:18,920 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140638828254976 | procn MainProcess | procd 32414
+2021-07-23 01:49:18,923 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140638828254976 | procn MainProcess | procd 32414
+2021-07-23 01:49:18,925 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140638828254976 | procn MainProcess | procd 32414
+2021-07-23 01:50:51,089 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139700790646592 | procn MainProcess | procd 32584
+2021-07-23 01:50:51,282 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139700738356992 | procn MainProcess | procd 32584
+2021-07-23 01:50:51,283 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 139700738356992 | procn MainProcess | procd 32584
+2021-07-23 01:50:51,283 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 139700738356992 | procn MainProcess | procd 32584
+2021-07-23 01:52:04,283 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139993942267712 | procn MainProcess | procd 32639
+2021-07-23 01:52:04,502 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139993889978112 | procn MainProcess | procd 32639
+2021-07-23 01:52:04,504 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 139993889978112 | procn MainProcess | procd 32639
+2021-07-23 01:52:04,504 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 139993889978112 | procn MainProcess | procd 32639
+2021-07-23 01:52:29,280 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140101219923776 | procn MainProcess | procd 32680
+2021-07-23 01:52:29,563 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140101094995712 | procn MainProcess | procd 32680
+2021-07-23 01:52:29,564 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140101094995712 | procn MainProcess | procd 32680
+2021-07-23 01:52:29,564 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140101094995712 | procn MainProcess | procd 32680
+2021-07-23 01:59:42,387 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140265700255552 | procn MainProcess | procd 33346
+2021-07-23 01:59:42,854 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140265578821376 | procn MainProcess | procd 33346
+2021-07-23 01:59:42,855 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140265578821376 | procn MainProcess | procd 33346
+2021-07-23 01:59:42,856 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140265578821376 | procn MainProcess | procd 33346
+2021-07-23 02:00:00,000 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139826774935360 | procn MainProcess | procd 33365
+2021-07-23 02:00:00,223 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139826722645760 | procn MainProcess | procd 33365
+2021-07-23 02:00:00,224 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 139826722645760 | procn MainProcess | procd 33365
+2021-07-23 02:00:00,224 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 139826722645760 | procn MainProcess | procd 33365
+2021-07-23 02:01:24,725 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140461228910400 | procn MainProcess | procd 33609
+2021-07-23 02:01:24,952 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140461176620800 | procn MainProcess | procd 33609
+2021-07-23 02:01:24,953 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140461176620800 | procn MainProcess | procd 33609
+2021-07-23 02:01:24,953 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140461176620800 | procn MainProcess | procd 33609
+2021-07-23 02:03:28,433 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140173410699072 | procn MainProcess | procd 33845
+2021-07-23 02:03:28,654 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140173358409472 | procn MainProcess | procd 33845
+2021-07-23 02:03:28,660 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140173358409472 | procn MainProcess | procd 33845
+2021-07-23 02:03:28,663 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140173358409472 | procn MainProcess | procd 33845
+2021-07-23 02:04:52,975 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140677523912512 | procn MainProcess | procd 33991
+2021-07-23 02:04:53,193 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140677471622912 | procn MainProcess | procd 33991
+2021-07-23 02:04:53,195 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140677471622912 | procn MainProcess | procd 33991
+2021-07-23 02:04:53,195 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140677471622912 | procn MainProcess | procd 33991
+2021-07-23 02:11:25,904 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139727520892736 | procn MainProcess | procd 34805
+2021-07-23 02:11:26,285 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139727468603136 | procn MainProcess | procd 34805
+2021-07-23 02:11:26,288 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 139727468603136 | procn MainProcess | procd 34805
+2021-07-23 02:11:26,288 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 139727468603136 | procn MainProcess | procd 34805
+2021-07-23 02:13:04,123 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139928875112256 | procn MainProcess | procd 34890
+2021-07-23 02:13:04,360 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139928751040256 | procn MainProcess | procd 34890
+2021-07-23 02:13:04,361 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 139928751040256 | procn MainProcess | procd 34890
+2021-07-23 02:13:04,361 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 139928751040256 | procn MainProcess | procd 34890
+2021-07-23 02:13:38,712 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140115335411520 | procn MainProcess | procd 34936
+2021-07-23 02:13:39,011 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140115283121920 | procn MainProcess | procd 34936
+2021-07-23 02:13:39,012 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140115283121920 | procn MainProcess | procd 34936
+2021-07-23 02:13:39,012 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140115283121920 | procn MainProcess | procd 34936
+2021-07-23 02:14:03,134 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139924499998528 | procn MainProcess | procd 35006
+2021-07-23 02:14:03,714 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139924447708928 | procn MainProcess | procd 35006
+2021-07-23 02:14:03,715 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 139924447708928 | procn MainProcess | procd 35006
+2021-07-23 02:14:03,715 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 139924447708928 | procn MainProcess | procd 35006
+2021-07-23 02:15:27,286 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139731317458752 | procn MainProcess | procd 35253
+2021-07-23 02:15:27,595 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139731190937344 | procn MainProcess | procd 35253
+2021-07-23 02:15:27,598 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 139731190937344 | procn MainProcess | procd 35253
+2021-07-23 02:15:27,599 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 139731190937344 | procn MainProcess | procd 35253
+2021-07-23 02:16:55,850 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140580592936768 | procn MainProcess | procd 35385
+2021-07-23 02:16:56,170 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140580540647168 | procn MainProcess | procd 35385
+2021-07-23 02:16:56,172 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140580540647168 | procn MainProcess | procd 35385
+2021-07-23 02:16:56,172 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140580540647168 | procn MainProcess | procd 35385
+2021-07-23 10:03:53,588 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140628956329792 | procn MainProcess | procd 8287
+2021-07-23 10:03:53,863 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140628830709504 | procn MainProcess | procd 8287
+2021-07-23 10:03:53,864 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140628830709504 | procn MainProcess | procd 8287
+2021-07-23 10:03:53,864 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140628830709504 | procn MainProcess | procd 8287
+2021-07-23 10:06:01,003 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139669299857216 | procn MainProcess | procd 8599
+2021-07-23 10:06:01,207 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 139669173954304 | procn MainProcess | procd 8599
+2021-07-23 10:06:01,208 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 139669173954304 | procn MainProcess | procd 8599
+2021-07-23 10:06:01,208 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 139669173954304 | procn MainProcess | procd 8599
+2021-07-23 10:07:01,751 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140700884531008 | procn MainProcess | procd 8647
+2021-07-23 10:07:01,917 --- [apscheduler.scheduler] => INFO:20 (Adding job tentatively -- it will be properly scheduled when the scheduler starts) | thn basic_tasks_thread | thd 140700832241408 | procn MainProcess | procd 8647
+2021-07-23 10:07:01,918 --- [apscheduler.scheduler] => INFO:20 (Added job "Bump.__init__.<locals>.send_d_bump" to job store "default") | thn basic_tasks_thread | thd 140700832241408 | procn MainProcess | procd 8647
+2021-07-23 10:07:01,918 --- [apscheduler.scheduler] => INFO:20 (Scheduler started) | thn basic_tasks_thread | thd 140700832241408 | procn MainProcess | procd 8647
+2021-07-23 10:07:54,603 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140008420022080 | procn MainProcess | procd 8704
+2021-07-23 10:08:00,762 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140668465915712 | procn MainProcess | procd 8722
+2021-07-23 10:08:17,942 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139867730872128 | procn MainProcess | procd 8751
+2021-07-23 10:10:19,729 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140584128911168 | procn MainProcess | procd 9088
+2021-07-23 10:10:43,392 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139671916783424 | procn MainProcess | procd 9135
+2021-07-23 10:12:14,676 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140211271952192 | procn MainProcess | procd 9309
+2021-07-23 10:13:42,072 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139663331239744 | procn MainProcess | procd 9373
+2021-07-23 10:13:48,015 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139686892279616 | procn MainProcess | procd 9394
+2021-07-23 10:16:00,321 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140569417291584 | procn MainProcess | procd 10405
+2021-07-23 10:16:14,221 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139923408287552 | procn MainProcess | procd 10453
+2021-07-23 10:17:27,464 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139753419016000 | procn MainProcess | procd 10489
+2021-07-23 10:17:32,003 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139920808396608 | procn MainProcess | procd 10503
+2021-07-23 10:17:55,920 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140017949910848 | procn MainProcess | procd 10526
+2021-07-23 10:18:05,809 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140179182126912 | procn MainProcess | procd 10557
+2021-07-23 10:19:29,445 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140002769594176 | procn MainProcess | procd 10612
+2021-07-23 10:19:57,868 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139857324435264 | procn MainProcess | procd 10684
+2021-07-23 10:20:29,063 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139965504374592 | procn MainProcess | procd 10736
+2021-07-23 10:20:40,199 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140646192461632 | procn MainProcess | procd 10763
+2021-07-23 10:20:49,989 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139896532059968 | procn MainProcess | procd 10783
+2021-07-23 10:21:19,799 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139809766913856 | procn MainProcess | procd 10892
+2021-07-23 10:22:39,704 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139956978628416 | procn MainProcess | procd 11030
+2021-07-23 10:23:53,353 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140508844230464 | procn MainProcess | procd 11178
+2021-07-23 10:24:57,196 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140214958073664 | procn MainProcess | procd 11605
+2021-07-23 10:50:09,558 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139767290529600 | procn MainProcess | procd 15945
+2021-07-23 10:52:03,568 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140490950059840 | procn MainProcess | procd 16421
+2021-07-23 10:52:25,818 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140218778130240 | procn MainProcess | procd 16494
+2021-07-23 10:53:40,521 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140115548112704 | procn MainProcess | procd 16612
+2021-07-23 10:55:35,817 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140424803546944 | procn MainProcess | procd 16885
+2021-07-23 10:57:00,111 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140417488303936 | procn MainProcess | procd 16941
+2021-07-23 11:01:45,022 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140215809599296 | procn MainProcess | procd 17127
+2021-07-23 11:02:43,952 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140585641158464 | procn MainProcess | procd 17242
+2021-07-23 11:03:07,662 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140420458211136 | procn MainProcess | procd 17257
+2021-07-23 11:03:22,683 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139970733107008 | procn MainProcess | procd 17304
+2021-07-23 11:04:22,848 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139789932554048 | procn MainProcess | procd 17404
+2021-07-23 11:05:01,232 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140704378283840 | procn MainProcess | procd 17435
+2021-07-23 11:05:24,446 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140582982809408 | procn MainProcess | procd 17486
+2021-07-23 11:06:04,681 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139640714049344 | procn MainProcess | procd 17541
+2021-07-23 11:06:39,843 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140565279082304 | procn MainProcess | procd 17628
+2021-07-23 11:06:52,226 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139791678326592 | procn MainProcess | procd 18489
+2021-07-23 11:11:11,480 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140645798393664 | procn MainProcess | procd 19749
+2021-07-23 12:07:23,544 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140176071628608 | procn MainProcess | procd 28785
+2021-07-23 12:08:11,074 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140080457385792 | procn MainProcess | procd 29044
+2021-07-23 12:09:21,661 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140107989395264 | procn MainProcess | procd 29476
+2021-07-23 12:11:47,807 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140602790762304 | procn MainProcess | procd 30282
+2021-07-23 12:12:44,444 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140415702472512 | procn MainProcess | procd 30609
+2021-07-23 12:14:53,621 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140195615496000 | procn MainProcess | procd 31271
+2021-07-23 12:15:54,337 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140334312466240 | procn MainProcess | procd 31686
+2021-07-23 12:17:21,780 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140432088344384 | procn MainProcess | procd 32171
+2021-07-23 12:17:48,407 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140247641323328 | procn MainProcess | procd 32364
+2021-07-23 12:20:36,148 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140472729851712 | procn MainProcess | procd 33309
+2021-07-23 12:22:56,163 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140101638907712 | procn MainProcess | procd 34083
+2021-07-23 12:24:54,305 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139857665836864 | procn MainProcess | procd 34922
+2021-07-23 12:27:36,571 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140505350772544 | procn MainProcess | procd 35375
+2021-07-23 13:50:36,379 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140472395016000 | procn MainProcess | procd 51372
+2021-07-23 13:51:11,094 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140086737471296 | procn MainProcess | procd 51540
+2021-07-23 13:51:11,234 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): pypi.org:443) | thn reddit_commands_thread | thd 140086694221568 | procn MainProcess | procd 51540
+2021-07-23 13:51:11,877 --- [urllib3.connectionpool] => DEBUG:10 (https://pypi.org:443 "GET /pypi/praw/json HTTP/1.1" 200 32182) | thn reddit_commands_thread | thd 140086694221568 | procn MainProcess | procd 51540
+2021-07-23 14:28:05,389 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140294282278720 | procn MainProcess | procd 53747
+2021-07-23 14:28:05,775 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/python/hot) | thn reddit_commands_thread | thd 140294167197440 | procn MainProcess | procd 53747
+2021-07-23 14:28:05,776 --- [prawcore] => DEBUG:10 (Data: None) | thn reddit_commands_thread | thd 140294167197440 | procn MainProcess | procd 53747
+2021-07-23 14:28:05,776 --- [prawcore] => DEBUG:10 (Params: {'limit': 5, 'raw_json': 1}) | thn reddit_commands_thread | thd 140294167197440 | procn MainProcess | procd 53747
+2021-07-23 14:28:05,779 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): www.reddit.com:443) | thn reddit_commands_thread | thd 140294167197440 | procn MainProcess | procd 53747
+2021-07-23 14:28:06,387 --- [urllib3.connectionpool] => DEBUG:10 (https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 109) | thn reddit_commands_thread | thd 140294167197440 | procn MainProcess | procd 53747
+2021-07-23 14:28:06,393 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): oauth.reddit.com:443) | thn reddit_commands_thread | thd 140294167197440 | procn MainProcess | procd 53747
+2021-07-23 14:28:07,099 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/python/hot?limit=5&raw_json=1 HTTP/1.1" 200 8567) | thn reddit_commands_thread | thd 140294167197440 | procn MainProcess | procd 53747
+2021-07-23 14:28:07,107 --- [prawcore] => DEBUG:10 (Response: 200 (8567 bytes)) | thn reddit_commands_thread | thd 140294167197440 | procn MainProcess | procd 53747
+2021-07-23 14:28:17,489 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140285032458048 | procn MainProcess | procd 53781
+2021-07-23 14:29:08,757 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139811066296128 | procn MainProcess | procd 53814
+2021-07-23 14:29:14,840 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 139811066296128 | procn MainProcess | procd 53814
+2021-07-23 14:29:14,841 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/wtf/hot) | thn MainThread | thd 139811066296128 | procn MainProcess | procd 53814
+2021-07-23 14:29:14,841 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 139811066296128 | procn MainProcess | procd 53814
+2021-07-23 14:29:14,842 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 139811066296128 | procn MainProcess | procd 53814
+2021-07-23 14:29:14,846 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): www.reddit.com:443) | thn MainThread | thd 139811066296128 | procn MainProcess | procd 53814
+2021-07-23 14:29:15,424 --- [urllib3.connectionpool] => DEBUG:10 (https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 109) | thn MainThread | thd 139811066296128 | procn MainProcess | procd 53814
+2021-07-23 14:29:15,432 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): oauth.reddit.com:443) | thn MainThread | thd 139811066296128 | procn MainProcess | procd 53814
+2021-07-23 14:29:18,513 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/wtf/hot?limit=100&raw_json=1 HTTP/1.1" 200 102723) | thn MainThread | thd 139811066296128 | procn MainProcess | procd 53814
+2021-07-23 14:29:19,150 --- [prawcore] => DEBUG:10 (Response: 200 (102723 bytes)) | thn MainThread | thd 139811066296128 | procn MainProcess | procd 53814
+2021-07-23 14:30:10,872 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:17,698 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:17,698 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/doge/hot) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:17,699 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:17,699 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:17,702 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): www.reddit.com:443) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:18,408 --- [urllib3.connectionpool] => DEBUG:10 (https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 109) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:18,414 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): oauth.reddit.com:443) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:20,752 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/doge/hot?limit=100&raw_json=1 HTTP/1.1" 200 91299) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:21,294 --- [prawcore] => DEBUG:10 (Response: 200 (91299 bytes)) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:37,508 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:37,509 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/doge/hot) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:37,509 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:37,509 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:39,460 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/doge/hot?limit=100&raw_json=1 HTTP/1.1" 200 91274) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:39,851 --- [prawcore] => DEBUG:10 (Response: 200 (91274 bytes)) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:56,348 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:56,349 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/bitcoin/hot) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:56,349 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:56,349 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:58,187 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/bitcoin/hot?limit=100&raw_json=1 HTTP/1.1" 200 99737) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:30:58,802 --- [prawcore] => DEBUG:10 (Response: 200 (99737 bytes)) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:01,932 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:01,932 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/monero/hot) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:01,933 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:01,933 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:01,933 --- [prawcore] => DEBUG:10 (Sleeping: 6.87 seconds prior to call) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:10,987 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/monero/hot?limit=100&raw_json=1 HTTP/1.1" 200 105054) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:11,584 --- [prawcore] => DEBUG:10 (Response: 200 (105054 bytes)) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:12,887 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:12,888 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/iron/hot) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:12,888 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:12,888 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:12,888 --- [prawcore] => DEBUG:10 (Sleeping: 8.70 seconds prior to call) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:22,928 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/iron/hot?limit=100&raw_json=1 HTTP/1.1" 200 62028) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:23,270 --- [prawcore] => DEBUG:10 (Response: 200 (62028 bytes)) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:49,927 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:49,928 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/darkweb/hot) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:49,928 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:49,928 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:50,313 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/darkweb/hot?limit=100&raw_json=1 HTTP/1.1" 404 58) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:31:50,314 --- [prawcore] => DEBUG:10 (Response: 404 (58 bytes)) | thn MainThread | thd 139706522646336 | procn MainProcess | procd 53927
+2021-07-23 14:33:46,307 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140371004532544 | procn MainProcess | procd 54391
+2021-07-23 14:33:55,895 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140371004532544 | procn MainProcess | procd 54391
+2021-07-23 14:33:55,896 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/darkwb/hot) | thn MainThread | thd 140371004532544 | procn MainProcess | procd 54391
+2021-07-23 14:33:55,896 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140371004532544 | procn MainProcess | procd 54391
+2021-07-23 14:33:55,896 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140371004532544 | procn MainProcess | procd 54391
+2021-07-23 14:33:55,901 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): www.reddit.com:443) | thn MainThread | thd 140371004532544 | procn MainProcess | procd 54391
+2021-07-23 14:33:56,695 --- [urllib3.connectionpool] => DEBUG:10 (https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 109) | thn MainThread | thd 140371004532544 | procn MainProcess | procd 54391
+2021-07-23 14:33:56,701 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): oauth.reddit.com:443) | thn MainThread | thd 140371004532544 | procn MainProcess | procd 54391
+2021-07-23 14:33:57,351 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/darkwb/hot?limit=100&raw_json=1 HTTP/1.1" 302 285) | thn MainThread | thd 140371004532544 | procn MainProcess | procd 54391
+2021-07-23 14:33:57,355 --- [prawcore] => DEBUG:10 (Response: 302 (285 bytes)) | thn MainThread | thd 140371004532544 | procn MainProcess | procd 54391
+2021-07-23 14:34:18,390 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:34:24,203 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:34:24,203 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/darkwb/hot) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:34:24,203 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:34:24,204 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:34:24,207 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): www.reddit.com:443) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:34:24,685 --- [urllib3.connectionpool] => DEBUG:10 (https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 109) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:34:24,690 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): oauth.reddit.com:443) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:34:25,205 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/darkwb/hot?limit=100&raw_json=1 HTTP/1.1" 302 285) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:34:25,210 --- [prawcore] => DEBUG:10 (Response: 302 (285 bytes)) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:34:43,671 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:34:43,672 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/darkwb/hot) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:34:43,672 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:34:43,672 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:34:44,039 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/darkwb/hot?limit=100&raw_json=1 HTTP/1.1" 302 285) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:34:44,043 --- [prawcore] => DEBUG:10 (Response: 302 (285 bytes)) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:02,161 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:02,161 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/america/hot) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:02,162 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:02,162 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:04,354 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/america/hot?limit=100&raw_json=1 HTTP/1.1" 200 65880) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:04,678 --- [prawcore] => DEBUG:10 (Response: 200 (65880 bytes)) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:23,405 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:23,405 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/ransomwar/hot) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:23,405 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:23,406 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:23,829 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/ransomwar/hot?limit=100&raw_json=1 HTTP/1.1" 302 291) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:23,832 --- [prawcore] => DEBUG:10 (Response: 302 (291 bytes)) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:26,259 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:26,259 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/ransomware/hot) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:26,259 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:26,259 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:26,647 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/ransomware/hot?limit=100&raw_json=1 HTTP/1.1" 403 59) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:26,649 --- [prawcore] => DEBUG:10 (Response: 403 (59 bytes)) | thn MainThread | thd 140310338959168 | procn MainProcess | procd 54436
+2021-07-23 14:35:56,517 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140077422958400 | procn MainProcess | procd 54545
+2021-07-23 14:36:06,359 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140077422958400 | procn MainProcess | procd 54545
+2021-07-23 14:36:06,359 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/darkweb/hot) | thn MainThread | thd 140077422958400 | procn MainProcess | procd 54545
+2021-07-23 14:36:06,360 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140077422958400 | procn MainProcess | procd 54545
+2021-07-23 14:36:06,360 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140077422958400 | procn MainProcess | procd 54545
+2021-07-23 14:36:06,366 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): www.reddit.com:443) | thn MainThread | thd 140077422958400 | procn MainProcess | procd 54545
+2021-07-23 14:36:06,895 --- [urllib3.connectionpool] => DEBUG:10 (https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 109) | thn MainThread | thd 140077422958400 | procn MainProcess | procd 54545
+2021-07-23 14:36:06,900 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): oauth.reddit.com:443) | thn MainThread | thd 140077422958400 | procn MainProcess | procd 54545
+2021-07-23 14:36:07,603 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/darkweb/hot?limit=100&raw_json=1 HTTP/1.1" 404 58) | thn MainThread | thd 140077422958400 | procn MainProcess | procd 54545
+2021-07-23 14:36:07,606 --- [prawcore] => DEBUG:10 (Response: 404 (58 bytes)) | thn MainThread | thd 140077422958400 | procn MainProcess | procd 54545
+2021-07-23 14:37:05,941 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140502723987264 | procn MainProcess | procd 54752
+2021-07-23 14:37:11,413 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140502723987264 | procn MainProcess | procd 54752
+2021-07-23 14:37:11,414 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/darkweb/hot) | thn MainThread | thd 140502723987264 | procn MainProcess | procd 54752
+2021-07-23 14:37:11,414 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140502723987264 | procn MainProcess | procd 54752
+2021-07-23 14:37:11,414 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140502723987264 | procn MainProcess | procd 54752
+2021-07-23 14:37:11,416 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): www.reddit.com:443) | thn MainThread | thd 140502723987264 | procn MainProcess | procd 54752
+2021-07-23 14:37:12,051 --- [urllib3.connectionpool] => DEBUG:10 (https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 109) | thn MainThread | thd 140502723987264 | procn MainProcess | procd 54752
+2021-07-23 14:37:12,059 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): oauth.reddit.com:443) | thn MainThread | thd 140502723987264 | procn MainProcess | procd 54752
+2021-07-23 14:37:12,712 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/darkweb/hot?limit=100&raw_json=1 HTTP/1.1" 404 58) | thn MainThread | thd 140502723987264 | procn MainProcess | procd 54752
+2021-07-23 14:37:12,715 --- [prawcore] => DEBUG:10 (Response: 404 (58 bytes)) | thn MainThread | thd 140502723987264 | procn MainProcess | procd 54752
+2021-07-23 14:37:38,916 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140090495944512 | procn MainProcess | procd 54834
+2021-07-23 14:37:52,963 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140090495944512 | procn MainProcess | procd 54834
+2021-07-23 14:37:52,963 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/darkweb/hot) | thn MainThread | thd 140090495944512 | procn MainProcess | procd 54834
+2021-07-23 14:37:52,964 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140090495944512 | procn MainProcess | procd 54834
+2021-07-23 14:37:52,964 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140090495944512 | procn MainProcess | procd 54834
+2021-07-23 14:37:52,969 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): www.reddit.com:443) | thn MainThread | thd 140090495944512 | procn MainProcess | procd 54834
+2021-07-23 14:37:53,555 --- [urllib3.connectionpool] => DEBUG:10 (https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 109) | thn MainThread | thd 140090495944512 | procn MainProcess | procd 54834
+2021-07-23 14:37:53,562 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): oauth.reddit.com:443) | thn MainThread | thd 140090495944512 | procn MainProcess | procd 54834
+2021-07-23 14:37:54,097 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/darkweb/hot?limit=100&raw_json=1 HTTP/1.1" 404 58) | thn MainThread | thd 140090495944512 | procn MainProcess | procd 54834
+2021-07-23 14:37:54,099 --- [prawcore] => DEBUG:10 (Response: 404 (58 bytes)) | thn MainThread | thd 140090495944512 | procn MainProcess | procd 54834
+2021-07-23 14:38:07,706 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140592128325440 | procn MainProcess | procd 54884
+2021-07-23 14:38:13,313 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140592128325440 | procn MainProcess | procd 54884
+2021-07-23 14:38:13,313 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/darkweb/hot) | thn MainThread | thd 140592128325440 | procn MainProcess | procd 54884
+2021-07-23 14:38:13,313 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140592128325440 | procn MainProcess | procd 54884
+2021-07-23 14:38:13,314 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140592128325440 | procn MainProcess | procd 54884
+2021-07-23 14:38:13,319 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): www.reddit.com:443) | thn MainThread | thd 140592128325440 | procn MainProcess | procd 54884
+2021-07-23 14:38:13,816 --- [urllib3.connectionpool] => DEBUG:10 (https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 109) | thn MainThread | thd 140592128325440 | procn MainProcess | procd 54884
+2021-07-23 14:38:13,821 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): oauth.reddit.com:443) | thn MainThread | thd 140592128325440 | procn MainProcess | procd 54884
+2021-07-23 14:38:14,469 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/darkweb/hot?limit=100&raw_json=1 HTTP/1.1" 404 58) | thn MainThread | thd 140592128325440 | procn MainProcess | procd 54884
+2021-07-23 14:38:14,470 --- [prawcore] => DEBUG:10 (Response: 404 (58 bytes)) | thn MainThread | thd 140592128325440 | procn MainProcess | procd 54884
+2021-07-23 14:38:28,783 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140398357419840 | procn MainProcess | procd 54931
+2021-07-23 14:38:34,521 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140398357419840 | procn MainProcess | procd 54931
+2021-07-23 14:38:34,522 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/darkweb/hot) | thn MainThread | thd 140398357419840 | procn MainProcess | procd 54931
+2021-07-23 14:38:34,522 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140398357419840 | procn MainProcess | procd 54931
+2021-07-23 14:38:34,523 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140398357419840 | procn MainProcess | procd 54931
+2021-07-23 14:38:34,528 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): www.reddit.com:443) | thn MainThread | thd 140398357419840 | procn MainProcess | procd 54931
+2021-07-23 14:38:35,083 --- [urllib3.connectionpool] => DEBUG:10 (https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 109) | thn MainThread | thd 140398357419840 | procn MainProcess | procd 54931
+2021-07-23 14:38:35,089 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): oauth.reddit.com:443) | thn MainThread | thd 140398357419840 | procn MainProcess | procd 54931
+2021-07-23 14:38:35,600 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/darkweb/hot?limit=100&raw_json=1 HTTP/1.1" 404 58) | thn MainThread | thd 140398357419840 | procn MainProcess | procd 54931
+2021-07-23 14:38:35,602 --- [prawcore] => DEBUG:10 (Response: 404 (58 bytes)) | thn MainThread | thd 140398357419840 | procn MainProcess | procd 54931
+2021-07-23 14:39:11,970 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139763877300032 | procn MainProcess | procd 55122
+2021-07-23 14:39:17,198 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 139763877300032 | procn MainProcess | procd 55122
+2021-07-23 14:39:17,199 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/darkweb/hot) | thn MainThread | thd 139763877300032 | procn MainProcess | procd 55122
+2021-07-23 14:39:17,199 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 139763877300032 | procn MainProcess | procd 55122
+2021-07-23 14:39:17,199 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 139763877300032 | procn MainProcess | procd 55122
+2021-07-23 14:39:17,204 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): www.reddit.com:443) | thn MainThread | thd 139763877300032 | procn MainProcess | procd 55122
+2021-07-23 14:39:17,923 --- [urllib3.connectionpool] => DEBUG:10 (https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 109) | thn MainThread | thd 139763877300032 | procn MainProcess | procd 55122
+2021-07-23 14:39:17,930 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): oauth.reddit.com:443) | thn MainThread | thd 139763877300032 | procn MainProcess | procd 55122
+2021-07-23 14:39:18,607 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/darkweb/hot?limit=100&raw_json=1 HTTP/1.1" 404 58) | thn MainThread | thd 139763877300032 | procn MainProcess | procd 55122
+2021-07-23 14:39:18,608 --- [prawcore] => DEBUG:10 (Response: 404 (58 bytes)) | thn MainThread | thd 139763877300032 | procn MainProcess | procd 55122
+2021-07-23 14:39:27,565 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140096831489856 | procn MainProcess | procd 55141
+2021-07-23 14:39:36,892 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140096831489856 | procn MainProcess | procd 55141
+2021-07-23 14:39:36,892 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/darkweb/hot) | thn MainThread | thd 140096831489856 | procn MainProcess | procd 55141
+2021-07-23 14:39:36,893 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140096831489856 | procn MainProcess | procd 55141
+2021-07-23 14:39:36,893 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140096831489856 | procn MainProcess | procd 55141
+2021-07-23 14:39:36,897 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): www.reddit.com:443) | thn MainThread | thd 140096831489856 | procn MainProcess | procd 55141
+2021-07-23 14:39:37,410 --- [urllib3.connectionpool] => DEBUG:10 (https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 109) | thn MainThread | thd 140096831489856 | procn MainProcess | procd 55141
+2021-07-23 14:39:37,421 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): oauth.reddit.com:443) | thn MainThread | thd 140096831489856 | procn MainProcess | procd 55141
+2021-07-23 14:39:37,971 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/darkweb/hot?limit=100&raw_json=1 HTTP/1.1" 404 58) | thn MainThread | thd 140096831489856 | procn MainProcess | procd 55141
+2021-07-23 14:39:37,973 --- [prawcore] => DEBUG:10 (Response: 404 (58 bytes)) | thn MainThread | thd 140096831489856 | procn MainProcess | procd 55141
+2021-07-23 14:40:05,986 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139686334490432 | procn MainProcess | procd 55258
+2021-07-23 14:40:11,484 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 139686334490432 | procn MainProcess | procd 55258
+2021-07-23 14:40:11,484 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/darkweb/hot) | thn MainThread | thd 139686334490432 | procn MainProcess | procd 55258
+2021-07-23 14:40:11,484 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 139686334490432 | procn MainProcess | procd 55258
+2021-07-23 14:40:11,485 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 139686334490432 | procn MainProcess | procd 55258
+2021-07-23 14:40:11,489 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): www.reddit.com:443) | thn MainThread | thd 139686334490432 | procn MainProcess | procd 55258
+2021-07-23 14:40:12,067 --- [urllib3.connectionpool] => DEBUG:10 (https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 109) | thn MainThread | thd 139686334490432 | procn MainProcess | procd 55258
+2021-07-23 14:40:12,072 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): oauth.reddit.com:443) | thn MainThread | thd 139686334490432 | procn MainProcess | procd 55258
+2021-07-23 14:40:12,575 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/darkweb/hot?limit=100&raw_json=1 HTTP/1.1" 404 58) | thn MainThread | thd 139686334490432 | procn MainProcess | procd 55258
+2021-07-23 14:40:12,576 --- [prawcore] => DEBUG:10 (Response: 404 (58 bytes)) | thn MainThread | thd 139686334490432 | procn MainProcess | procd 55258
+2021-07-23 14:41:01,725 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:06,870 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:06,871 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/darkweb/hot) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:06,871 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:06,871 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:06,877 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): www.reddit.com:443) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:07,716 --- [urllib3.connectionpool] => DEBUG:10 (https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 109) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:07,722 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): oauth.reddit.com:443) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:08,231 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/darkweb/hot?limit=100&raw_json=1 HTTP/1.1" 404 58) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:08,233 --- [prawcore] => DEBUG:10 (Response: 404 (58 bytes)) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:25,211 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:25,211 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/h4xrox/hot) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:25,211 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:25,212 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:25,579 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/h4xrox/hot?limit=100&raw_json=1 HTTP/1.1" 302 285) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:25,582 --- [prawcore] => DEBUG:10 (Response: 302 (285 bytes)) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:40,228 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:40,229 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/j3ws3rD/hot) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:40,229 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:40,229 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:40,650 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/j3ws3rD/hot?limit=100&raw_json=1 HTTP/1.1" 302 287) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:40,653 --- [prawcore] => DEBUG:10 (Response: 302 (287 bytes)) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:48,630 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:48,631 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/darkweb/hot) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:48,631 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:48,631 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:49,175 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/darkweb/hot?limit=100&raw_json=1 HTTP/1.1" 404 58) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:41:49,176 --- [prawcore] => DEBUG:10 (Response: 404 (58 bytes)) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:43:19,401 --- [praw] => WARNING:30 (It appears that you are using PRAW in an asynchronous environment.
+It is strongly recommended to use Async PRAW: https://asyncpraw.readthedocs.io.
+See https://praw.readthedocs.io/en/latest/getting_started/multiple_instances.html#discord-bots-and-asynchronous-environments for more info.
+) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:43:19,401 --- [prawcore] => DEBUG:10 (Fetching: GET https://oauth.reddit.com/r/billie-eilish/hot) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:43:19,401 --- [prawcore] => DEBUG:10 (Data: None) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:43:19,402 --- [prawcore] => DEBUG:10 (Params: {'limit': 100, 'raw_json': 1}) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:43:19,780 --- [urllib3.connectionpool] => DEBUG:10 (https://oauth.reddit.com:443 "GET /r/billie-eilish/hot?limit=100&raw_json=1 HTTP/1.1" 302 299) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:43:19,784 --- [prawcore] => DEBUG:10 (Response: 302 (299 bytes)) | thn MainThread | thd 140103343941440 | procn MainProcess | procd 55382
+2021-07-23 14:55:35,678 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140466999723840 | procn MainProcess | procd 58926
+2021-07-23 14:55:35,931 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): pypi.org:443) | thn reddit_commands_thread | thd 140466948081408 | procn MainProcess | procd 58926
+2021-07-23 14:55:36,104 --- [urllib3.connectionpool] => DEBUG:10 (https://pypi.org:443 "GET /pypi/praw/json HTTP/1.1" 200 32182) | thn reddit_commands_thread | thd 140466948081408 | procn MainProcess | procd 58926
+2021-07-23 14:55:56,311 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139824609298240 | procn MainProcess | procd 58976
+2021-07-23 14:56:46,004 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140546102658880 | procn MainProcess | procd 59055
+2021-07-23 14:57:07,350 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140214653937472 | procn MainProcess | procd 59096
+2021-07-23 14:58:00,016 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139783334639424 | procn MainProcess | procd 59238
+2021-07-23 14:58:13,975 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140517943662400 | procn MainProcess | procd 59267
+2021-07-23 14:58:46,898 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140141170284352 | procn MainProcess | procd 59296
+2021-07-23 14:59:14,687 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140462353704768 | procn MainProcess | procd 59326
+2021-07-23 14:59:30,941 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140093025634112 | procn MainProcess | procd 59354
+2021-07-23 14:59:51,473 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140594116835136 | procn MainProcess | procd 59399
+2021-07-23 15:00:37,077 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140526349514560 | procn MainProcess | procd 59581
+2021-07-23 15:01:34,513 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140171360245568 | procn MainProcess | procd 59889
+2021-07-23 15:04:14,500 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140716338472768 | procn MainProcess | procd 60380
+2021-07-23 15:07:06,292 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140688820475712 | procn MainProcess | procd 61054
+2021-07-23 15:07:57,707 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140056404268864 | procn MainProcess | procd 61246
+2021-07-23 15:08:01,384 --- [wavelink.websocket] => ERROR:40 (WEBSOCKET | Connection Failure:: Timeout context manager should be used inside a task) | thn MainThread | thd 140056404268864 | procn MainProcess | procd 61246
+2021-07-23 15:08:01,391 --- [wavelink.node] => INFO:20 (NODE | MAIN connected:: MAIN | us_central | (Shard: None)) | thn MainThread | thd 140056404268864 | procn MainProcess | procd 61246
+2021-07-23 15:08:01,391 --- [wavelink.client] => INFO:20 (CLIENT | New node initiated:: MAIN | us_central | (Shard: None) ) | thn MainThread | thd 140056404268864 | procn MainProcess | procd 61246
+2021-07-23 15:08:34,639 --- [wavelink.player] => INFO:20 (PLAYER | Connected to voice channel:: 864742421463433266) | thn MainThread | thd 140056404268864 | procn MainProcess | procd 61246
+2021-07-23 15:08:34,988 --- [wavelink.player] => DEBUG:10 (PLAYER | Dispatching voice update:: 864742421463433266) | thn MainThread | thd 140056404268864 | procn MainProcess | procd 61246
+2021-07-23 15:08:34,988 --- [wavelink.player] => DEBUG:10 (PLAYER | Dispatching voice update:: 864742421463433266) | thn MainThread | thd 140056404268864 | procn MainProcess | procd 61246
+2021-07-23 15:08:34,988 --- [wavelink.node] => DEBUG:10 (NODE | Sending payload:: <{'op': 'voiceUpdate', 'guildId': '850613312952598538', 'sessionId': 'a87341848dcb0ab6102c40e17ecc6b07', 'event': {'token': '71014d5808b66024', 'guild_id': '850613312952598538', 'endpoint': 'us-east2257.discord.media:443'}}> (MAIN | us_central | (Shard: None))) | thn MainThread | thd 140056404268864 | procn MainProcess | procd 61246
+2021-07-23 15:09:03,054 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140088368535360 | procn MainProcess | procd 61355
+2021-07-23 15:09:06,658 --- [wavelink.websocket] => ERROR:40 (WEBSOCKET | Connection Failure:: Timeout context manager should be used inside a task) | thn MainThread | thd 140088368535360 | procn MainProcess | procd 61355
+2021-07-23 15:09:06,661 --- [wavelink.node] => INFO:20 (NODE | MAIN connected:: MAIN | us_central | (Shard: None)) | thn MainThread | thd 140088368535360 | procn MainProcess | procd 61355
+2021-07-23 15:09:06,663 --- [wavelink.client] => INFO:20 (CLIENT | New node initiated:: MAIN | us_central | (Shard: None) ) | thn MainThread | thd 140088368535360 | procn MainProcess | procd 61355
+2021-07-23 15:09:08,881 --- [wavelink.player] => INFO:20 (PLAYER | Connected to voice channel:: 864742421463433266) | thn MainThread | thd 140088368535360 | procn MainProcess | procd 61355
+2021-07-23 15:09:09,229 --- [wavelink.player] => DEBUG:10 (PLAYER | Dispatching voice update:: 864742421463433266) | thn MainThread | thd 140088368535360 | procn MainProcess | procd 61355
+2021-07-23 15:09:09,241 --- [wavelink.player] => DEBUG:10 (PLAYER | Dispatching voice update:: 864742421463433266) | thn MainThread | thd 140088368535360 | procn MainProcess | procd 61355
+2021-07-23 15:09:09,243 --- [wavelink.node] => DEBUG:10 (NODE | Sending payload:: <{'op': 'voiceUpdate', 'guildId': '850613312952598538', 'sessionId': '1c99374a5cdb5c9e4aa8a0e7699cae96', 'event': {'token': '71014d5808b66024', 'guild_id': '850613312952598538', 'endpoint': 'us-east2257.discord.media:443'}}> (MAIN | us_central | (Shard: None))) | thn MainThread | thd 140088368535360 | procn MainProcess | procd 61355
+2021-07-23 15:10:59,751 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140324359149376 | procn MainProcess | procd 61462
+2021-07-23 15:11:03,565 --- [wavelink.websocket] => ERROR:40 (WEBSOCKET | Connection Failure:: Timeout context manager should be used inside a task) | thn MainThread | thd 140324359149376 | procn MainProcess | procd 61462
+2021-07-23 15:11:03,567 --- [wavelink.node] => INFO:20 (NODE | MAIN connected:: MAIN | us_central | (Shard: None)) | thn MainThread | thd 140324359149376 | procn MainProcess | procd 61462
+2021-07-23 15:11:03,568 --- [wavelink.client] => INFO:20 (CLIENT | New node initiated:: MAIN | us_central | (Shard: None) ) | thn MainThread | thd 140324359149376 | procn MainProcess | procd 61462
+2021-07-23 15:11:06,124 --- [wavelink.player] => INFO:20 (PLAYER | Connected to voice channel:: 864742421463433266) | thn MainThread | thd 140324359149376 | procn MainProcess | procd 61462
+2021-07-23 15:11:06,462 --- [wavelink.player] => DEBUG:10 (PLAYER | Dispatching voice update:: 864742421463433266) | thn MainThread | thd 140324359149376 | procn MainProcess | procd 61462
+2021-07-23 15:11:06,477 --- [wavelink.player] => DEBUG:10 (PLAYER | Dispatching voice update:: 864742421463433266) | thn MainThread | thd 140324359149376 | procn MainProcess | procd 61462
+2021-07-23 15:11:06,477 --- [wavelink.node] => DEBUG:10 (NODE | Sending payload:: <{'op': 'voiceUpdate', 'guildId': '850613312952598538', 'sessionId': 'a5c1ffc029516a923069d968b168bcda', 'event': {'token': '8807facef08f3364', 'guild_id': '850613312952598538', 'endpoint': 'us-east2257.discord.media:443'}}> (MAIN | us_central | (Shard: None))) | thn MainThread | thd 140324359149376 | procn MainProcess | procd 61462
+2021-07-23 15:13:44,214 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140524504454976 | procn MainProcess | procd 61694
+2021-07-23 15:13:48,368 --- [wavelink.websocket] => ERROR:40 (WEBSOCKET | Connection Failure:: Timeout context manager should be used inside a task) | thn MainThread | thd 140524504454976 | procn MainProcess | procd 61694
+2021-07-23 15:13:48,371 --- [wavelink.node] => INFO:20 (NODE | MAIN connected:: MAIN | us_central | (Shard: None)) | thn MainThread | thd 140524504454976 | procn MainProcess | procd 61694
+2021-07-23 15:13:48,371 --- [wavelink.client] => INFO:20 (CLIENT | New node initiated:: MAIN | us_central | (Shard: None) ) | thn MainThread | thd 140524504454976 | procn MainProcess | procd 61694
+2021-07-23 15:17:48,513 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140106609145664 | procn MainProcess | procd 62224
+2021-07-23 15:17:52,726 --- [wavelink.websocket] => ERROR:40 (WEBSOCKET | Connection Failure:: Timeout context manager should be used inside a task) | thn MainThread | thd 140106609145664 | procn MainProcess | procd 62224
+2021-07-23 15:17:52,738 --- [wavelink.node] => INFO:20 (NODE | MAIN connected:: MAIN | us_central | (Shard: None)) | thn MainThread | thd 140106609145664 | procn MainProcess | procd 62224
+2021-07-23 15:17:52,739 --- [wavelink.client] => INFO:20 (CLIENT | New node initiated:: MAIN | us_central | (Shard: None) ) | thn MainThread | thd 140106609145664 | procn MainProcess | procd 62224
+2021-07-23 15:18:04,396 --- [wavelink.player] => INFO:20 (PLAYER | Connected to voice channel:: 864742421463433266) | thn MainThread | thd 140106609145664 | procn MainProcess | procd 62224
+2021-07-23 15:18:04,731 --- [wavelink.player] => DEBUG:10 (PLAYER | Dispatching voice update:: 864742421463433266) | thn MainThread | thd 140106609145664 | procn MainProcess | procd 62224
+2021-07-23 15:18:04,820 --- [wavelink.player] => DEBUG:10 (PLAYER | Dispatching voice update:: 864742421463433266) | thn MainThread | thd 140106609145664 | procn MainProcess | procd 62224
+2021-07-23 15:18:04,820 --- [wavelink.node] => DEBUG:10 (NODE | Sending payload:: <{'op': 'voiceUpdate', 'guildId': '850613312952598538', 'sessionId': 'd20a6773c6f2044c749b59498b9d8527', 'event': {'token': '4b26680702db0d8c', 'guild_id': '850613312952598538', 'endpoint': 'us-east2257.discord.media:443'}}> (MAIN | us_central | (Shard: None))) | thn MainThread | thd 140106609145664 | procn MainProcess | procd 62224
+2021-07-23 15:18:47,688 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140367790303040 | procn MainProcess | procd 62313
+2021-07-23 15:18:51,715 --- [wavelink.websocket] => ERROR:40 (WEBSOCKET | Connection Failure:: Timeout context manager should be used inside a task) | thn MainThread | thd 140367790303040 | procn MainProcess | procd 62313
+2021-07-23 15:18:51,716 --- [wavelink.node] => INFO:20 (NODE | MAIN connected:: MAIN | us_central | (Shard: None)) | thn MainThread | thd 140367790303040 | procn MainProcess | procd 62313
+2021-07-23 15:18:51,716 --- [wavelink.client] => INFO:20 (CLIENT | New node initiated:: MAIN | us_central | (Shard: None) ) | thn MainThread | thd 140367790303040 | procn MainProcess | procd 62313
+2021-07-23 15:19:40,684 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139630064617280 | procn MainProcess | procd 62365
+2021-07-23 15:19:45,789 --- [wavelink.websocket] => ERROR:40 (WEBSOCKET | Connection Failure:: Timeout context manager should be used inside a task) | thn MainThread | thd 139630064617280 | procn MainProcess | procd 62365
+2021-07-23 15:19:45,790 --- [wavelink.node] => INFO:20 (NODE | MAIN connected:: MAIN | us_central | (Shard: None)) | thn MainThread | thd 139630064617280 | procn MainProcess | procd 62365
+2021-07-23 15:19:45,791 --- [wavelink.client] => INFO:20 (CLIENT | New node initiated:: MAIN | us_central | (Shard: None) ) | thn MainThread | thd 139630064617280 | procn MainProcess | procd 62365
+2021-07-23 15:28:06,840 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140298177357632 | procn MainProcess | procd 63194
+2021-07-23 15:28:40,671 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140623171753792 | procn MainProcess | procd 63325
+2021-07-23 15:29:01,502 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139797608122176 | procn MainProcess | procd 63364
+2021-07-23 15:29:05,435 --- [wavelink.websocket] => ERROR:40 (WEBSOCKET | Connection Failure:: Timeout context manager should be used inside a task) | thn MainThread | thd 139797608122176 | procn MainProcess | procd 63364
+2021-07-23 15:29:05,437 --- [wavelink.node] => INFO:20 (NODE | MAIN connected:: MAIN | us_central | (Shard: None)) | thn MainThread | thd 139797608122176 | procn MainProcess | procd 63364
+2021-07-23 15:29:05,437 --- [wavelink.client] => INFO:20 (CLIENT | New node initiated:: MAIN | us_central | (Shard: None) ) | thn MainThread | thd 139797608122176 | procn MainProcess | procd 63364
+2021-07-23 15:30:29,172 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140202116990784 | procn MainProcess | procd 63601
+2021-07-23 15:30:43,444 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140307043297088 | procn MainProcess | procd 63642
+2021-07-23 15:31:43,822 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140386842502976 | procn MainProcess | procd 63690
+2021-07-23 15:33:13,052 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140426118997824 | procn MainProcess | procd 63971
+2021-07-23 15:34:01,297 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140625860949824 | procn MainProcess | procd 64010
+2021-07-23 15:35:31,011 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140022242326336 | procn MainProcess | procd 64088
+2021-07-23 19:17:52,798 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140014095120192 | procn MainProcess | procd 11291
+2021-07-23 19:17:53,153 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): pypi.org:443) | thn reddit_commands_thread | thd 140013970904832 | procn MainProcess | procd 11291
+2021-07-23 19:17:53,850 --- [urllib3.connectionpool] => DEBUG:10 (https://pypi.org:443 "GET /pypi/praw/json HTTP/1.1" 200 32182) | thn reddit_commands_thread | thd 140013970904832 | procn MainProcess | procd 11291
+2021-07-23 19:19:12,715 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139638532708160 | procn MainProcess | procd 11509
+2021-07-23 19:21:31,764 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140236657207104 | procn MainProcess | procd 12024
+2021-07-23 19:21:48,883 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140468004116288 | procn MainProcess | procd 12131
+2021-07-23 19:25:45,027 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140118005700416 | procn MainProcess | procd 12832
+2021-07-23 19:25:58,131 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140550002161472 | procn MainProcess | procd 12893
+2021-07-23 19:26:06,483 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140636336834368 | procn MainProcess | procd 12928
+2021-07-24 11:12:50,744 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140519041603392 | procn MainProcess | procd 13516
+2021-07-24 11:12:51,319 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): pypi.org:443) | thn reddit_commands_thread | thd 140518906390272 | procn MainProcess | procd 13516
+2021-07-24 11:12:51,697 --- [urllib3.connectionpool] => DEBUG:10 (https://pypi.org:443 "GET /pypi/praw/json HTTP/1.1" 200 32182) | thn reddit_commands_thread | thd 140518906390272 | procn MainProcess | procd 13516
+2021-07-24 11:13:34,013 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140248026195776 | procn MainProcess | procd 13573
+2021-07-24 11:16:39,232 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140287441434432 | procn MainProcess | procd 13930
+2021-07-24 11:16:42,919 --- [wavelink.websocket] => ERROR:40 (WEBSOCKET | Connection Failure:: Timeout context manager should be used inside a task) | thn MainThread | thd 140287441434432 | procn MainProcess | procd 13930
+2021-07-24 11:16:42,922 --- [wavelink.node] => INFO:20 (NODE | MAIN connected:: MAIN | us_central | (Shard: None)) | thn MainThread | thd 140287441434432 | procn MainProcess | procd 13930
+2021-07-24 11:16:42,923 --- [wavelink.client] => INFO:20 (CLIENT | New node initiated:: MAIN | us_central | (Shard: None) ) | thn MainThread | thd 140287441434432 | procn MainProcess | procd 13930
+2021-07-24 11:23:25,740 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140264773637952 | procn MainProcess | procd 14230
+2021-07-24 11:37:50,176 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140353208772416 | procn MainProcess | procd 16533
+2021-07-24 11:37:53,897 --- [wavelink.websocket] => ERROR:40 (WEBSOCKET | Connection Failure:: Event loop is closed) | thn MainThread | thd 140353208772416 | procn MainProcess | procd 16533
+2021-07-24 11:37:53,905 --- [wavelink.node] => INFO:20 (NODE | MAIN connected:: MAIN | us_central | (Shard: None)) | thn MainThread | thd 140353208772416 | procn MainProcess | procd 16533
+2021-07-24 11:37:53,905 --- [wavelink.client] => INFO:20 (CLIENT | New node initiated:: MAIN | us_central | (Shard: None) ) | thn MainThread | thd 140353208772416 | procn MainProcess | procd 16533
+2021-07-24 11:38:08,659 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140250685015872 | procn MainProcess | procd 16575
+2021-07-24 11:38:16,294 --- [wavelink.websocket] => ERROR:40 (WEBSOCKET | Connection Failure:: Timeout context manager should be used inside a task) | thn MainThread | thd 140250685015872 | procn MainProcess | procd 16575
+2021-07-24 11:38:16,296 --- [wavelink.node] => INFO:20 (NODE | MAIN connected:: MAIN | us_central | (Shard: None)) | thn MainThread | thd 140250685015872 | procn MainProcess | procd 16575
+2021-07-24 11:38:16,296 --- [wavelink.client] => INFO:20 (CLIENT | New node initiated:: MAIN | us_central | (Shard: None) ) | thn MainThread | thd 140250685015872 | procn MainProcess | procd 16575
+2021-07-24 11:38:28,668 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139745352668992 | procn MainProcess | procd 16629
+2021-07-24 11:38:32,139 --- [wavelink.websocket] => ERROR:40 (WEBSOCKET | Connection Failure:: Timeout context manager should be used inside a task) | thn MainThread | thd 139745352668992 | procn MainProcess | procd 16629
+2021-07-24 11:38:32,141 --- [wavelink.node] => INFO:20 (NODE | MAIN connected:: MAIN | us_central | (Shard: None)) | thn MainThread | thd 139745352668992 | procn MainProcess | procd 16629
+2021-07-24 11:38:32,141 --- [wavelink.client] => INFO:20 (CLIENT | New node initiated:: MAIN | us_central | (Shard: None) ) | thn MainThread | thd 139745352668992 | procn MainProcess | procd 16629
+2021-07-24 11:39:39,476 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140484839028544 | procn MainProcess | procd 16838
+2021-07-24 11:41:11,101 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140089786775360 | procn MainProcess | procd 17022
+2021-07-24 11:41:14,338 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140057720997696 | procn MainProcess | procd 17031
+2021-07-24 11:42:10,178 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139886910543680 | procn MainProcess | procd 17138
+2021-07-24 11:42:48,701 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140388158560064 | procn MainProcess | procd 17189
+2021-07-24 11:43:01,066 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140216364320576 | procn MainProcess | procd 17211
+2021-07-24 12:17:08,311 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140228611721024 | procn MainProcess | procd 21099
+2021-07-24 12:17:09,012 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): pypi.org:443) | thn reddit_commands_thread | thd 140228551038720 | procn MainProcess | procd 21099
+2021-07-24 12:17:09,194 --- [urllib3.connectionpool] => DEBUG:10 (https://pypi.org:443 "GET /pypi/praw/json HTTP/1.1" 200 32182) | thn reddit_commands_thread | thd 140228551038720 | procn MainProcess | procd 21099
+2021-07-25 16:27:47,968 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139668507219776 | procn MainProcess | procd 52870
+2021-07-25 16:27:48,572 --- [urllib3.connectionpool] => DEBUG:10 (Starting new HTTPS connection (1): pypi.org:443) | thn reddit_commands_thread | thd 139668368647936 | procn MainProcess | procd 52870
+2021-07-25 16:27:48,815 --- [urllib3.connectionpool] => DEBUG:10 (https://pypi.org:443 "GET /pypi/praw/json HTTP/1.1" 200 32182) | thn reddit_commands_thread | thd 139668368647936 | procn MainProcess | procd 52870
+2021-07-25 16:28:53,401 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 140703947466560 | procn MainProcess | procd 54012
+2021-07-25 16:29:10,492 --- [efc] => DEBUG:10 (DF) | thn MainThread | thd 139922534508352 | procn MainProcess | procd 54097
