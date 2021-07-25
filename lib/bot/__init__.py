@@ -5,7 +5,6 @@ from glob import glob
 from discord.ext.commands.errors import BadInviteArgument
 from path import Path
 import threading
-from tc import tc
 from ..logger.loggers import takelogger
 import discord
 

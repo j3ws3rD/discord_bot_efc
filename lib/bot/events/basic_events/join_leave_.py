@@ -1,6 +1,5 @@
 from discord.ext.commands import command
 from discord.ext import commands
-from tc import tc
 import discord
 from discord import Embed
 
@@ -10,7 +9,8 @@ class joinLeave(commands.Cog):
 
         @bot.event
         async def on_ready():
-            print(tc.bright_green,"Bot is ready.",tc.reset)
+            # print(tc.bright_green,"Bot is ready.",tc.reset)
+            print("Bot is ready.")
         
         @bot.event
         async def on_member_join(member):
