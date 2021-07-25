@@ -8,6 +8,10 @@ import threading
 from ..logger.loggers import takelogger
 import discord
 
+import os
+print("path")
+print(os.path.relpath())
+
 class Bot(BotBase):
     def __init__(self):
         super().__init__(command_prefix="!",case_insensitive=True,intents=discord.Intents.all())
