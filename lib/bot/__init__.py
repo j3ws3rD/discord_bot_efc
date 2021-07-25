@@ -20,7 +20,7 @@ class Bot(BotBase):
         
         def load_basic_cogs(self):
             # basic cogs
-            basic_cogs = [path.split("/")[5][:-3] for path in glob("/app/lib/bot/events/basic_events/*")]
+            basic_cogs = [path.split("/")[6][:-3] for path in glob("/app/lib/bot/events/basic_events/*")]
             print(basic_cogs)
             for cog in basic_cogs:
                 if not cog.startswith("__"):
@@ -28,9 +28,8 @@ class Bot(BotBase):
                     cog_log = takelogger("efc","basic_cog_thread",threading.get_ident())
                     cog_log.info(f"BASIC EVENTS {cog} LOADED.")
                     print("BASIC EVENTS %s loaded." % (cog))
-        
         def load_debug_events(self):
-            debug_events = [path.split("/")[5][:-3] for path in glob("/app/lib/bot/events/debug_events/*")]
+            debug_events = [path.split("/")[6][:-3] for path in glob("/app/lib/bot/events/debug_events/*")]
             print(debug_events)
             for debug_event in debug_events:
                 if not debug_event.startswith("__"):
@@ -38,7 +37,7 @@ class Bot(BotBase):
                     print("DEBUG EVENTS LOADED.")
         def load_basic_commands(self):
             # basic cogs
-            basic_commands = [path.split("/")[5][:-3] for path in glob("/app/lib/bot/commands/basic_commands/*")]
+            basic_commands = [path.split("/")[6][:-3] for path in glob("/app/lib/bot/commands/basic_commands/*")]
             print(basic_commands)
             for commands in basic_commands:
                 if not commands.startswith("__"):
@@ -48,7 +47,7 @@ class Bot(BotBase):
                     print("BASIC COMMANDS %s loaded." % (commands))
                     
         def load_reddit_commands(self):
-            reddit_commands = [path.split("/")[5][:-3] for path in glob("/app/lib/bot/commands/reddit_commands/*")]
+            reddit_commands = [path.split("/")[6][:-3] for path in glob("/app/lib/bot/commands/reddit_commands/*")]
             print(reddit_commands)
             for reddit_command in reddit_commands:
                 if not reddit_command.startswith("__"):
@@ -56,7 +55,7 @@ class Bot(BotBase):
                     print("REDDIT COMMAND %s LOADED." %reddit_command)
     
         def load_music_commands(self):
-            music_commands = [path.split("/")[5][:-3] for path in glob("/app/lib/bot/commands/music_commands/*")]
+            music_commands = [path.split("/")[6][:-3] for path in glob("/app/lib/bot/commands/music_commands/*")]
             print(music_commands)
             for music_command in music_commands:
                 if not music_command.startswith("__"):
@@ -64,7 +63,7 @@ class Bot(BotBase):
                     print("MUSIC COMMAND %s LOADED." %music_command)
 
         def load_basic_tasks(self):
-            basic_tasks = [path.split("/")[5][:-3] for path in glob("/app/lib/bot/tasks/basic_tasks/*")]
+            basic_tasks = [path.split("/")[6][:-3] for path in glob("/app/lib/bot/tasks/basic_tasks/*")]
             print(basic_tasks)
             for task in basic_tasks:
                 if not task.startswith("__"):
