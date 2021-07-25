@@ -16,7 +16,7 @@ class Bot(BotBase):
         
         def load_basic_cogs(self):
             # basic cogs
-            basic_cogs = [path.split("/")[10][:-3] for path in glob("/app/lib/bot/events/basic_events/*")]
+            basic_cogs = [path.split("/")[10][:-3] for path in glob("/home/rootx/DECINE/Discord_bot/efc/lib/bot/events/basic_events/*")]
             for cog in basic_cogs:
                 if not cog.startswith("__"):
                     self.load_extension(f"lib.bot.events.basic_events.{cog}")
@@ -25,14 +25,14 @@ class Bot(BotBase):
                     print("BASIC EVENTS %s loaded." % (cog))
         
         def load_debug_events(self):
-            debug_events = [path.split("/")[10][:-3] for path in glob("/app/lib/bot/events/debug_events/*")]
+            debug_events = [path.split("/")[10][:-3] for path in glob("/home/rootx/DECINE/Discord_bot/efc/lib/bot/events/debug_events/*")]
             for debug_event in debug_events:
                 if not debug_event.startswith("__"):
                     self.load_extension(f"lib.bot.events.debug_events.{debug_event}")
                     print("DEBUG EVENTS LOADED.")
         def load_basic_commands(self):
             # basic cogs
-            basic_commands = [path.split("/")[10][:-3] for path in glob("/app/lib/bot/commands/basic_commands/*")]
+            basic_commands = [path.split("/")[10][:-3] for path in glob("/home/rootx/DECINE/Discord_bot/efc/lib/bot/commands/basic_commands/*")]
             for commands in basic_commands:
                 if not commands.startswith("__"):
                     self.load_extension(f"lib.bot.commands.basic_commands.{commands}")
@@ -41,21 +41,21 @@ class Bot(BotBase):
                     print("BASIC COMMANDS %s loaded." % (commands))
                     
         def load_reddit_commands(self):
-            reddit_commands = [path.split("/")[10][:-3] for path in glob("/app/lib/bot/commands/reddit_commands/*")]
+            reddit_commands = [path.split("/")[10][:-3] for path in glob("/home/rootx/DECINE/Discord_bot/efc/lib/bot/commands/reddit_commands/*")]
             for reddit_command in reddit_commands:
                 if not reddit_command.startswith("__"):
                     self.load_extension(f"lib.bot.commands.reddit_commands.{reddit_command}")
                     print("REDDIT COMMAND %s LOADED." %reddit_command)
     
         def load_music_commands(self):
-            music_commands = [path.split("/")[10][:-3] for path in glob("/app/lib/bot/commands/music_commands/*")]
+            music_commands = [path.split("/")[10][:-3] for path in glob("/home/rootx/DECINE/Discord_bot/efc/lib/bot/commands/music_commands/*")]
             for music_command in music_commands:
                 if not music_command.startswith("__"):
                     self.load_extension(f"lib.bot.commands.music_commands.{music_command}")
                     print("MUSIC COMMAND %s LOADED." %music_command)
 
         def load_basic_tasks(self):
-            basic_tasks = [path.split("/")[10][:-3] for path in glob("/app/lib/bot/tasks/basic_tasks/*")]
+            basic_tasks = [path.split("/")[10][:-3] for path in glob("/home/rootx/DECINE/Discord_bot/efc/lib/bot/tasks/basic_tasks/*")]
             for task in basic_tasks:
                 if not task.startswith("__"):
                     self.load_extension(f"lib.bot.tasks.basic_tasks.{task}")
