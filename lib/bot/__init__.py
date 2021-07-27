@@ -1,7 +1,9 @@
 from logging import basicConfig
+from os import path
 from discord.ext import commands
 from discord.ext.commands import command, Bot as BotBase
 from glob import glob
+from discord.ext.commands.converter import TextChannelConverter
 from discord.ext.commands.errors import BadInviteArgument
 from path import Path
 import threading
@@ -29,7 +31,15 @@ class Bot(BotBase):
             for debug_event in debug_events:
                 if not debug_event.startswith("__"):
                     self.load_extension(f"lib.bot.events.debug_events.{debug_event}")
-                    print("DEBUG EVENTS LOADED.")
+                    print("DEBUG EVENT %s LOADED." % debug_event)
+        
+        def load_user_events(self):
+            user_events = [path.split("/")[10][:-3] for path in glob("/home/rootx/DECINE/Discord_bot/efc/lib/bot/events/user_events/*")]
+            for user_event in user_events:
+                if not user_event.startswith("__"):
+                    self.load_extension(f"lib.bot.events.user_events.{user_event}")
+                    print("USER EVENT %s LOADED." % user_event)
+
         def load_basic_commands(self):
             # basic cogs
             basic_commands = [path.split("/")[10][:-3] for path in glob("/home/rootx/DECINE/Discord_bot/efc/lib/bot/commands/basic_commands/*")]
@@ -69,6 +79,10 @@ class Bot(BotBase):
         debug_event_thread = threading.Thread(target=load_debug_events,args=(self,), name="debug_event_thread")
         debug_event_thread.start()
         print("DEBUG EVENT THREAD created successfuly.")
+
+        user_event_thread = threading.Thread(target=load_user_events,args=(self,),name="user_event_thread")
+        user_event_thread.start()
+        print("USER EVENT THREAD created successfuly.")
 
         basic_commands_thread = threading.Thread(target=load_basic_commands,args=(self,),name="basic_commands_thread")
         basic_commands_thread.start()
