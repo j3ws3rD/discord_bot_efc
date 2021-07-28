@@ -39,7 +39,7 @@ class Bot(BotBase):
                     print("DEBUG EVENT %s LOADED." % debug_event)
         
         def load_user_events(self):
-            user_events = [path.split("/")[10][:-3] for path in glob("/home/rootx/DECINE/Discord_bot/efc/lib/bot/events/user_events/*")]
+            user_events = [path.split("/")[6][:-3] for path in glob("/app/lib/bot/events/user_events/*")]
             for user_event in user_events:
                 if not user_event.startswith("__"):
                     self.load_extension(f"lib.bot.events.user_events.{user_event}")

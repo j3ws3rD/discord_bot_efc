@@ -3,7 +3,7 @@ from typing import Optional
 import logging
 import threading
 
-fileConfig("/home/rootx/DECINE/Discord_bot/efc/lib/logger/logger.conf")
+fileConfig("/app/lib/logger/logger.conf")
 
 class takelogger:
     def __init__(self,loggerName,threadName=None, threadID=None,formt=None):
