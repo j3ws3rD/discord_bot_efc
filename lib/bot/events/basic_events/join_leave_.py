@@ -14,7 +14,7 @@ class joinLeave(commands.Cog):
         
         @bot.event
         async def on_member_join(member):
-            embed = Embed(title=f"{member.display_name} joined.",description=f"Hello,{member.mention} welcome to trinity.Enjoy your stay.",colour=discord.Colour.light_grey())
+            embed = Embed(title=f"{member.display_name} joined.",description=f"Hello,{member.mention} welcome to trinity.Introduce yourself in <#852114055807238144>.And Get Roles in <#852113132208914432>.Enjoy your stay homie.",colour=discord.Colour.light_grey())
             embed.set_thumbnail(url=member.avatar_url)
             await self.bot.get_channel(853506951774076938).send(embed=embed)
             
