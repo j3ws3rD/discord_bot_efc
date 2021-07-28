@@ -870,10 +870,10 @@ class Get_Role(Cog):
                 if payload.emoji.name == "Asia":
                     role = discord.utils.get(guild.roles, name="Asia")
 
-                elif payload.emoji.name == "North_America":
+                elif payload.emoji.name == "NorthAmerica":
                     role = discord.utils.get(guild.roles, name="North_America")
 
-                elif payload.emoji.name == "South_America":
+                elif payload.emoji.name == "SouthAmerica":
                     role = discord.utils.get(guild.roles, name="South_America")
 
                 elif payload.emoji.name == "Africa":
