@@ -3009,3 +3009,11 @@
 2021-07-28 05:11:35,407 --- [general] => INFO:20 (BASIC commands kick LOADED.) | thn basic_commands_thread | thd 139822861645568 | procn MainProcess | procd 14405
 2021-07-28 05:11:35,414 --- [general] => INFO:20 (BASIC commands clear LOADED.) | thn basic_commands_thread | thd 139822861645568 | procn MainProcess | procd 14405
 >>>>>>> efc_org
+2022-10-12 21:06:38,405 --- [efc] => INFO:20 (BASIC EVENTS join_leave_ LOADED.) | thn basic_cog_thread | thd 139800594155264 | procn MainProcess | procd 4031
+2022-10-12 21:06:38,439 --- [general] => INFO:20 (BASIC commands loli LOADED.) | thn basic_commands_thread | thd 139800497608448 | procn MainProcess | procd 4031
+2022-10-12 21:06:38,447 --- [general] => INFO:20 (BASIC commands ban LOADED.) | thn basic_commands_thread | thd 139800497608448 | procn MainProcess | procd 4031
+2022-10-12 21:06:38,464 --- [general] => INFO:20 (BASIC commands clear LOADED.) | thn basic_commands_thread | thd 139800497608448 | procn MainProcess | procd 4031
+2022-10-12 21:06:38,475 --- [general] => INFO:20 (BASIC commands help LOADED.) | thn basic_commands_thread | thd 139800497608448 | procn MainProcess | procd 4031
+2022-10-12 21:06:38,480 --- [general] => INFO:20 (BASIC commands unban LOADED.) | thn basic_commands_thread | thd 139800497608448 | procn MainProcess | procd 4031
+2022-10-12 21:06:38,485 --- [general] => INFO:20 (BASIC commands ping LOADED.) | thn basic_commands_thread | thd 139800497608448 | procn MainProcess | procd 4031
+2022-10-12 21:06:38,494 --- [general] => INFO:20 (BASIC commands kick LOADED.) | thn basic_commands_thread | thd 139800497608448 | procn MainProcess | procd 4031
